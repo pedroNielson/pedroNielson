@@ -1,7 +1,9 @@
 ### Hi, I'm Pedro 👋
 
+- 💻 Graduating in computer engineering
 - 🎯 I’m currently learning dart
-- ⚡ Fun fact: I do love football
+
+
 
 
 ### Usefull links:
