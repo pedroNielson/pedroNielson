@@ -1,7 +1,7 @@
 ### Hi, I'm Pedro 👋
 
 - 💻 Graduating in computer engineering
-- 🎯 I’m currently learning dart
+- 🎯 I’m currently learning Python
 
 
 
