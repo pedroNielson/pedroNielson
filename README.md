@@ -8,7 +8,8 @@
 
 ### Usefull links:
 - 💼 <a href="https://www.linkedin.com/in/pedronielson/">Linkedin</a>
-- 💻 <a href="https://www.instagram.com/pedronielson_/">Linkedin</a>
+- 💻 <a href="https://www.instagram.com/pedronielson_/">Instagram</a>
+- 📫 <a href="pedronielson@gmail.com">Email</a>
 
 
 <br> <br>
