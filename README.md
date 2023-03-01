@@ -1,9 +1,8 @@
 ### Hi, I'm Pedro 👋
 
-- 🎓 Graduating in computer engineering
-- 🎯 I’m currently learning ReactJS
-
-
+- 🎓 Computer engineer
+- 💻 Full stack developer at Precato
+- 🎯 I’m currently learning NodeJS
 
 
 ### Usefull links:
