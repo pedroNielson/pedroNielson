@@ -1,8 +1,8 @@
 ### Hi, I'm Pedro 👋
 
 - 🎓 Computer engineer
-- 💻 Full stack developer at Precato
-- 🎯 I’m currently learning NodeJS
+- 💻 Full stack developer at LogicalIT
+- 🎯 I’m currently studing GenAI 
 
 
 ### Usefull links:
